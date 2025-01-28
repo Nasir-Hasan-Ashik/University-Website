@@ -27,7 +27,7 @@ This project is a fully functional university website designed to showcase facul
   - SQL  
 
 ## How to Run the Project  
-1. Clone this repository:  
+ Clone this repository:  
    ```bash  
    git clone https://github.com/Nasir-Hasan-Ashik/University-Website.git
 
